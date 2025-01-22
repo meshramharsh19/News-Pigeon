@@ -1,0 +1,56 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [ {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": null,
+        "title": "Women's T20 Cricket",
+        "description": "Highlights of England and Pakistan's third T20 game from Headingley, Leeds.",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m001zlg5/womens-t20-cricket-2024-england-v-pakistan-third-t20-highlights",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0hwk22m.jpg",
+        "publishedAt": "2024-05-19T22:21:54Z",
+        "content": "Highlights of England and Pakistan's third T20 game from Headingley, Leeds."
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "BBC News"
+        },
+        "author": "Stephan Shemilt",
+        "title": "'English cricket must do without Anderson' - Key",
+        "description": "Rob Key says English cricket will \"have to do without Jimmy Anderson\" after the fast bowler calls time on his legendary career against West Indies at Lord's in July.",
+        "url": "https://www.bbc.com/sport/cricket/articles/cv2xx78ln2no",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/7f68/live/de01a1c0-1166-11ef-9602-b7eb005626eb.jpg",
+        "publishedAt": "2024-05-13T21:01:05Z",
+        "content": "Key discussed the future of Ollie Robinson, who possesses a one-year central contract, but had a disappointing tour of India.\r\nRobinson struggled with a back injury in the only Test of the five he pl… [+1125 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Plans approved for £61.8m redevelopment of Lord's",
+        "description": "Plans for a £61.8m redevelopment of two stands at Lord's are approved by the Marylebone Cricket Club's members.",
+        "url": "https://www.bbc.com/sport/cricket/articles/cgrw3jxy0jdo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/e67a/live/cacfca30-0e07-11ef-9e85-378926d0f2ef.jpg",
+        "publishedAt": "2024-05-09T13:43:44Z",
+        "content": "Plans for a £61.8m redevelopment of two stands at Lord's have been approved.\r\nThe work, voted through by Marylebone Cricket Club (MCC) members last week, will increase the ground's capacity by 1,100 … [+622 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "BBC signs new four-year audio deal for ICC events",
+        "description": "The BBC signs a new four-year audio deal with the International Cricket Council (ICC) to broadcast all major global tournaments.",
+        "url": "https://www.bbc.com/sport/cricket/articles/c14454kkg9ro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/1321/live/7c2fa750-1e66-11ef-a133-cf78601b4a93.jpg",
+        "publishedAt": "2024-05-30T09:31:22Z",
+        "content": "The BBC has signed a new four-year audio deal with the International Cricket Council (ICC) to broadcast all major global tournaments. \r\nIt means the BBC will have ball-by-ball commentary on every tou… [+1407 chars]"
+        } ]
+}
